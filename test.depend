@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708001799 source:c:\users\owoshka\desktop\data structures\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
